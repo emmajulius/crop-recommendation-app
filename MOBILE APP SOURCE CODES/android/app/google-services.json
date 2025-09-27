@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "25327566024",
+    "project_id": "agro-smart-app",
+    "storage_bucket": "agro-smart-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25327566024:android:67682fc9ec77dead3579fd",
+        "android_client_info": {
+          "package_name": "com.example.crop_recommendation_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfyT9wwJZJ04rgiReviR3dZ5hRTfw0PKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25327566024:android:e75b21ef007dc8ce3579fd",
+        "android_client_info": {
+          "package_name": "com.tsa.agroapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfyT9wwJZJ04rgiReviR3dZ5hRTfw0PKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

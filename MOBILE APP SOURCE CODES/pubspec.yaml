@@ -1,0 +1,51 @@
+name: crop_recommendation_app
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.1
+  flutter_form_builder: ^10.0.1
+  provider: ^6.1.2
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.2.2
+  firebase_core: ^3.15.1
+  firebase_auth: ^5.6.2
+  geolocator: ^14.0.2  # check for latest
+  fl_chart: ^1.0.0
+  loading_overlay: ^0.4.2
+  google_maps_flutter: ^2.1.1
+  flutter_map: ^8.1.1
+  latlong2: ^0.9.0
+  firebase_messaging: ^15.2.9
+  flutter_local_notifications: ^19.3.1
+  timezone: ^0.10.1
+  cloud_firestore: ^5.6.11
+  path_provider: ^2.1.2
+  permission_handler: ^11.3.0
+  share_plus: ^7.2.1
+  image_picker: ^1.0.0  
+  firebase_storage: ^12.4.9 
+  pie_chart: ^5.1.0 
+
+
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/background.jpg
+    - assets/background2.jpg
+    - assets/home_background.jpg
