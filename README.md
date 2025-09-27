@@ -113,15 +113,36 @@ Backend: Listed in backend/requirements.txt
 Frontend: Listed in frontend/pubspec.yaml
 
  Screenshots
-Add screenshots of your app UI here
+###  Home Screen
+<img src="screenshots/home_screen.png" alt="Home Screen" width="300"/>
 
-Example:
+###  Login Screen
+<img src="screenshots/login_screen.png" alt="Login Screen" width="300"/>
 
-Home Screen
+###  Recommendation Result
+<img src="screenshots/result_screen.png" alt="Recommendation Result" width="300"/>
 
-Crop Recommendation Result
+###  Map Screen
+<img src="screenshots/map_screen.png" alt="Map Screen" width="300"/>
 
-Login / Signup with Firebase
+###  Reset Password Screen
+<img src="screenshots/resetpass_screen.png" alt="Reset Password Screen" width="300"/>
+
+###  Setting Screen
+<img src="screenshots/setting_screen.png" alt="Setting Screen" width="300"/>
+
+###  Signup Screen
+<img src="screenshots/signup_screen.png" alt="signup Screen" width="300"/>
+
+###  crop Recommendation Screen1
+<img src="screenshots/croprecommendation_screen.png" alt=" crop Recommendation Screen1" width="300"/>
+
+###  crop Recommendation Screen2
+<img src="screenshots/croprecommendation2_screen.png" alt="crop Recommendation Screen2" width="300"/>
+
+###  About Screen
+<img src="screenshots/about_screen.png" alt="About Screen" width="300"/>
+
 
  Tech Stack
 Frontend: Flutter (Dart)
